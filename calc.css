@@ -1,0 +1,39 @@
+h1{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:70px;
+    color: brown;
+}
+div{
+    width: 30%;
+    height:100%;
+    background-color:rgb(186, 157, 157);
+    padding: 1%;
+    margin: auto;
+}
+.res1{
+    width:90%;
+    height: 90%;
+    background-color:white;
+    padding: 5%;
+    font-size: larger;
+}
+table{
+    height:100%;
+    width: 100%;
+    text-align: center;
+    padding: 2%;
+    background-color: brown;
+    margin: auto;
+}
+button{
+    background-color: black;
+    color: white;
+    font-size: 100%;
+    font-weight: 50%;
+    font-style: italic;
+    height: 100%;
+    width: 100%;
+    padding: 2%;
+    margin: auto;
+}
